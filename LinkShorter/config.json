@@ -1,6 +1,0 @@
-{
-  "Port": 8080,
-  "DBName": "linkshorter",
-  "DBUser": "root",
-  "DBPass": ""
-}
